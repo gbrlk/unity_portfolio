@@ -1,0 +1,31 @@
+.body {
+    background: radial-gradient(#000436, #000218);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page {
+    height: 100%;
+    width: 600px;
+    background: #000f20;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section {
+    padding: 20px;
+    width: 80%;
+    background-color: #ffffff28;
+    color: white;
+
+}
+
+.section-title {
+    font-size: large;
+}
+
+.section-grid {
+    
+}
